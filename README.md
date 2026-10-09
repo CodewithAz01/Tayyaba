@@ -132,14 +132,7 @@ npx tsc --noEmit
 
 ---
 
-## 👤 Developer Profile
 
-- **Name**: Tayyaba Saddique
-- **Role**: Front-End Web Developer
-- **Location**: Nowshera, Khyber Pakhtunkhwa, Pakistan
-- **Education**: BS in Computer Science, Northern University Nowshera
-- **Email**: [tayyaba.saddique.cs@gmail.com](mailto:tayyaba.saddique.cs@gmail.com)
-- **WhatsApp**: [+92 332 1952862](https://wa.me/923321952862)
 
 ---
 
